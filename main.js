@@ -21,7 +21,6 @@ If you create a slash command, this is what will be shown in Discord.
 const commands = [
     { name: "ping", description: "Shows the clients latency." },
     { name: "managebot-stats", description: "Shows ManageBots statistics."},
-    { name: "info", description: "See some information about the bot."}
 ];
 
 
