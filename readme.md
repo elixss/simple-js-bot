@@ -1,5 +1,5 @@
 # Simple JS bot
-### i dont explain how to set up a bot here, but simple steps.
+### This is a simple Discord bot that is written with Discord.js. You can use it as a basic template for your own bot.
 
 ## Note:
 - You might have to add `"type": "module"` into your package.json file in order to use the `node-fetch` module which is used to use the `fetch()` function.
